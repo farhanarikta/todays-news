@@ -180,3 +180,6 @@ const modal =async id =>{
     `
 } 
 
+// card section call 
+loadCard("1")
+
